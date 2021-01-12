@@ -9,13 +9,13 @@ h:Animal
 
 h:Male
 	a rdfs:Class ;
-	rdfs:subClassOf h:Animal> ;
+	rdfs:subClassOf h:Animal ;
 	rdfs:label "male"@en, "mâle"@fr ;
 	rdfs:comment "an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)."@en, "individu appartenant au sexe qui possède le pouvoir de fécondation."@fr .
 
 h:Female
 	a rdfs:Class ;
-	rdfs:subClassOf h:Animal> ;
+	rdfs:subClassOf h:Animal ;
 	rdfs:label "female"@en, "femelle"@fr ;
 	rdfs:comment " an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)."@en, "animal appartenant au sexe apte à produire des ovules."@fr .
 
