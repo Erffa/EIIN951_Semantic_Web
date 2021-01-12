@@ -12,3 +12,4 @@ To be delivered in pairs: a .zip file containing :
 
 ***
 
+lien vers les 13 commandements : https://www.w3.org/TR/rdf11-mt/#rdfs-entailment
